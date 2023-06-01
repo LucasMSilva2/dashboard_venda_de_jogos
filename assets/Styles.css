@@ -1,0 +1,59 @@
+.app-header {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: thin lightgrey solid;
+
+  background-color: var(--gray-800);
+}
+
+.app-header .app-header--title {
+  font-size: 22px;
+  padding-left: 5px;
+}
+
+.whapper{
+  max-width: 70rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+}
+
+body{
+  background-color: #121214;
+}
+
+.content {
+  display: flex;
+  gap: 100px;
+}
+
+.overview{
+  width: 50%;
+  font-size: 1.5rem;
+  text-align: justify;
+  padding: 1rem 2rem 0 4rem;
+  color: var(--gray-200);
+}
+.overview P{
+  line-height: 2.3rem;
+  margin-top: 5px;
+}
+
+.equipe {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  color: var(--gray-200);
+}
+
+.tabela{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px
+}

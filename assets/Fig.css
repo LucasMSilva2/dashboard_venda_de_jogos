@@ -1,0 +1,51 @@
+.post{
+  width: 63rem;
+  background: var(--gray-800);
+  border-radius: 8px;
+  padding: 2.5rem;
+  margin: auto;
+}
+
+.post + .post{
+  margin-top: 2rem;
+}
+
+.headerFig{
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.content > table {
+  margin-top: -3rem;
+}
+
+.comment{
+  width: 100%;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--gray-600);
+}
+
+.comment > strong{
+  line-height: 1.6;
+  color: var(--gray-100);
+}
+
+.comment .textarea {
+  width: 100%;
+  background: var(--gray-900);
+  border: 0;
+  resize: none;
+  min-height: 5rem;
+  padding: 1rem;
+  border-radius: 8px;
+  color: var(--gray-100);
+  line-height: 1.4;
+  margin-top: 1rem;
+}
