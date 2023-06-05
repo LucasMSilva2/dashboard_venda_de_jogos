@@ -347,7 +347,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Vemos aqui uma pequena amostra dos dados que iremos trabalhar, reparem que já fizemos um pré-processamento e eles estão prontos para serem usados para gerar informação.")
                 ]
               )
             ]
@@ -376,7 +376,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Neste primeiro gráfico a primeira pergunta que queriamos a responder seria: Qual gênero de jogo mais vende? E ai está a resposta, os  jogos de ação vendem mais.")
                 ]
               )
             ]
@@ -405,7 +405,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Aqui podemos ver quantos jogos cada desenvolvedora publicou, entre as mais fortes na indústria são: Electronic Arts, Activision e Namco Bandai Games.")
                 ]
               )
             ]
@@ -434,7 +434,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Vemos aqui um gráfico interessante que mostra a quantidade de jogos publicado anualmente. Reparem que o dataset contempla dados de 1980 até 2016.")
                 ]
               )
             ]
@@ -463,7 +463,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Aqui vemos um gráfico que mostra o jogo que mais vendeu em cada ano. Sendo assim considerado o jogo do ano. Um detalhe curioso é que o GTA 5 foi o jogo do ano 2 vezes seguidas em 2013 e 2014.")
                 ]
               )
             ]
@@ -492,7 +492,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Vemos aqui um ranking de desenvolvedoras que mais venderam, juntamente com seu jogo mais vendido.")
                 ]
               )
             ]
@@ -521,7 +521,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Ranking das plataformas mais vendidas.")
                 ]
               )
             ]
@@ -550,7 +550,7 @@ app.layout = html.Div([
               html.Div(
                 className="textarea",
                 children=[
-                  html.P("Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci maxime magnam repudiandae quis recusandae ad pariatur. Cumque odio distinctio porro iste dolores a totam minus tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim impedit reiciendis harum adipisci")
+                  html.P("Vemos aqui uma relação entre as vendas dos consoles Playstations contra as vendas de jogos para PC. Vemos aqui que os consoles são favoritos para o público, isso pode demostrar que o público em geral prefere jogar realmente em consoles.")
                 ]
               )
             ]
